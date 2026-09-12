@@ -12,8 +12,7 @@ faltantes.
 - `resultados/`: archivos producidos por `leer_datos.py`.
 15
 ## Procedencia de los datos
-(Describa como se obtuvieron: instrumento, lugar, periodo, procesamiento
-previo. Si son sinteticos, digalo explicitamente.)
+(Datos sinteticos)
 ## Como ejecutar
 Requisitos: Python 3.9 o superior.
 1. Descargar o clonar este repositorio.
