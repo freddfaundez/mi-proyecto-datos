@@ -3,6 +3,7 @@ Conjunto de datos de ejemplo y programa minimo de lectura, preparados
 como actividad del curso Topicos Avanzados del Analisis de Datos
 (Doctorado en Ingenieria Aplicada). Este registro sera actualizado al
 final del curso con los datos y el codigo del trabajo final.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22719004.svg)](https://doi.org/10.5281/zenodo.22719004)
 ## Contenido
 - `data/ejemplo.csv`: 720 mediciones horarias (1 al 30 de marzo de 2026).
 - `data/diccionario_de_datos.md`: descripcion de cada columna, unidades y valores
@@ -27,7 +28,7 @@ Internacional (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
 ## Como citar
 Faundez, F. (2026). Mediciones horarias de temperatura y humedad de un
 sensor ambiental (datos de ejemplo) (Version 1.0.0) [Conjunto de datos].
-Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Zenodo. https://doi.org/10.5281/zenodo.22719004
 (El DOI se completara despues de publicar en Zenodo.)
 ## Contacto
 Freddy Faundez, f.faundezca@udd.cl, ORCID: https://orcid.org/0009-0007-0618-3070
